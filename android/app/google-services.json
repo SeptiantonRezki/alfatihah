@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262090371607",
+    "project_id": "al-fatiha-25bc1",
+    "storage_bucket": "al-fatiha-25bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262090371607:android:f18a3f129b9e2456462252",
+        "android_client_info": {
+          "package_name": "com.srr.alfatihah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262090371607-lv6jcvfhdctedpgs68o6jrn1l1ppmufh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbAu610p0PyN52DAp2dLkiE3FNqGXDpWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262090371607-lv6jcvfhdctedpgs68o6jrn1l1ppmufh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
